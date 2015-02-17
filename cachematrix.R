@@ -1,6 +1,8 @@
 ## cachematrix.R
 
 ## Coursera: R Programming (Johns Hopkins): Homework 3, Programming Assignment 2.
+## 
+## Fully commented code to show/prove my understanding to peer reviewers!
 ##
 ## The two functions in cachematrix.R compute the inverse of a square matrix. 
 ## The first time the inverse is computed it is saved to the cache, thus speeding
